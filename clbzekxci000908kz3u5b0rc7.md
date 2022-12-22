@@ -38,26 +38,25 @@
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730903404/de2d707b-f4c2-470e-b44a-99dd791df014.png align="center")
     
-      
-    
 10.  Installation started and after installation click finish
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730915558/22846c08-51be-40e6-a475-4676218db1cd.png align="center")
-    
-      
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730915558/22846c08-51be-40e6-a475-4676218db1cd.png align="center")
+
 11.  After clicking on finish one terminal popup to install chocolatey please press any Key from Keyboard to continue
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730954719/e6c24068-e4f1-4912-874a-7bacf6ce18b8.png align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730954719/e6c24068-e4f1-4912-874a-7bacf6ce18b8.png align="center")
+
 12.  After clicking any key from keyboard, PowerShell opened and waits for 5minute until options come TYPE ENTER to exit
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730963565/d2a634ba-459f-4975-b6fb-fb000110d573.png align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730963565/d2a634ba-459f-4975-b6fb-fb000110d573.png align="center")
+
 13.  Type Enter and you are done
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730986501/f2bc14e7-c4d7-44cc-858c-eaacbf0353dc.png align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671730986501/f2bc14e7-c4d7-44cc-858c-eaacbf0353dc.png align="center")
 
 ## How to Check Whether node.JS is installed or not in your system?
 
@@ -97,7 +96,5 @@ http.createServer((req, res) => {
 3.  Open chrome browser using open with Live server extension and you can see a similar
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671732389442/89a53273-dc75-4d51-a584-0d2d778c4b9f.png align="center")
-    
-      
     
 4.  Finally, You are done with server-side programming. Congrats!
