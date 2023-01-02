@@ -2,13 +2,15 @@
 
 **Hi everyone,**
 
-**Welcome to my blog. In this post, I will show you how to code your first DOM project.**  
-  
+**Welcome to my blog. In this post, I will show you how to code your first DOM project.**
+
 In this project, I Have to Create a web app where you can simulate lift mechanics for a client. (This is a task given by [@realdevsquad](https://twitter.com/RealDevSquad) and I am also suggesting you all do this task. [GitHub Link of this task](https://github.com/Real-Dev-Squad/Lift-Simulation))
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672651418144/2bc4e7f4-6e11-4a1b-bdad-321a948fc3df.gif align="center")
 
 Link- [https://lift-simulation-realdev.netlify.app/](https://lift-simulation-realdev.netlify.app/)
+
+GitHub- [https://github.com/shubhamsigdar1/Lift-simulation](https://github.com/shubhamsigdar1/Lift-simulation)
 
 ### What is DOM?
 
@@ -75,8 +77,7 @@ When we do rendering/Painting on our HTML and CSS in a browser i.e. make some ch
 * Mobile friendly design
     
 
-##   
-Below is the HTML code
+## Below is the HTML code
 
 ```html
 <!DOCTYPE html>
@@ -718,8 +719,6 @@ function deletingFloors() {
         floordiv.remove();
     }
 }
-
 ```
 
-  
 **If you liked this article, consider following me on** **Hashnode** **for my latest publications.**
