@@ -1,7 +1,7 @@
 # How I Make 404 Page User Not Found Using  Ember.js Framework
 
-Hi everyone,  
-  
+Hi everyone,
+
 Welcome to my blog. This post will show you **How to Make a** 404 Page User Not Found Using ember.js frameworks. These issues are given to me in realdevsquad open-source project because they are migrating their website to ember.js. In this issue they want if the page does not exist on the website please redirect to the 404 page i.e. I need to show a page not found rather than a blank page when a router doesn’t exist.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675516414603/1c00792f-c943-41dc-9a43-ff4f5b7746c9.gif align="center")
@@ -132,20 +132,18 @@ button {
 ```
 
 If you are familiar with CSS, feel free to customize these styles to your liking!  
-When you are ready, save the CSS file; our trusty development server should pick it up and refresh our page right away.  
-  
+When you are ready, save the CSS file; our trusty development server should pick it up and refresh our page right away.
+
 As we learned earlier, the Ember convention is to place your source code in the `app` folder. For other assets like images and fonts, the convention is to put them in the `public` folder. We will follow this convention by [downloading the image file](https://github.com/shubhamsigdar1/website-www/raw/f3d19786cd7cfff61d3fa4e7afda9e42f5dfaacd/public/assets/images/not-found.png) and saving it into `public/assets/images/not-found.png`
 
 Both Ember CLI and the development server understand these folder conventions and will automatically make these files available to the browser.
 
-  
-  
 `app/route.js`
 
 Now I need to show a page not found rather than a blank page when a router doesn’t exist. for ex: [https://realdevsquads.vercel.app/sadjksjkasnna](https://realdevsquads.vercel.app/sadjksjkasnna)  
 In order to do this, we will need to tell Ember about our plan to add a page at that location. Otherwise, Ember will think we have visited an invalid URL!
 
-The place to manage what pages are available is the *router*. Go ahead and open `app/router.js` and make the following change:  
+The place to manage what pages are available is the *router*. Go ahead and open `app/router.js` and make the following change:
 
 ```javascript
 import EmberRouter from '@ember/routing/router';
@@ -163,4 +161,4 @@ You can confirm this by navigating to [`http://localhost:4200/snshdbs`](http://l
 
 # **Conclusion**
 
-In this tutorial, you have learned how to create 404 pages and how you show a page not found rather than a blank page when a router doesn’t exist.
+In this tutorial, you have learned how to create 404 pages and how you show a page not found rather than a blank page when a router doesn’t exist using ember.js.
