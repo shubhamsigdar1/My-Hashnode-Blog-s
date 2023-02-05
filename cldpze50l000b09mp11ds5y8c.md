@@ -142,10 +142,10 @@ Both Ember CLI and the development server understand these folder conventions an
 
 ---
 
-### I Used Bem Convention In HTML And CSS
+### Note: I Used Bem Convention In HTML And CSS
 
-The **Block, Element, Modifier** methodology (commonly referred to as [BEM](https://en.bem.info/method)) is a popular *naming convention* for classes in HTML and CSS.  
-  
+The **Block, Element, Modifier** methodology (commonly referred to as [BEM](https://en.bem.info/method)) is a popular *naming convention* for classes in HTML and CSS.
+
 */\* Block component /*
 
 `.page-not-found {}`
@@ -179,12 +179,11 @@ You can confirm this by navigating to [`http://localhost:4200/snshdbs`](http://l
 
 ---
 
-#   
-**Automated Testing**
+## **Automated Testing**
 
 `tests\unit\routes\page-not-found-test.js`
 
-Ember's built-in testing framework to write some automated tests for your app. By the end of this chapter, we will have an automated test suite that we can run to ensure our app is working correctly:  
+Ember's built-in testing framework to write some automated tests for your app. By the end of this chapter, we will have an automated test suite that we can run to ensure our app is working correctly:
 
 ```javascript
 import { module, test } from 'qunit';
@@ -214,12 +213,11 @@ module('Unit | Route | page-not-found', function (hooks) {
 
 ---
 
-### I use data-test-selectors for picking up the DOM elements
+### Note: I use data-test-selectors for picking up the DOM elements
 
 **Reference Link**: [https://guides.emberjs.com/release/testing/testing-tools/#toc\_ember-test-selectors](https://guides.emberjs.com/release/testing/testing-tools/#toc_ember-test-selectors)  
 A best practice for testing is to **separate the concerns between styling and testing**. Class names and DOM structure change over time—for the better—by you, your team, and addon developers. If you rely on CSS classes, your tests will break and need a significant rewrite.
 
-  
 [Ember Test Selectors](https://github.com/simplabs/ember-test-selectors) is an addon that helps you **write tests that are more resilient to DOM changes**. You use `data-test-*` attributes to mark the elements that will be used in your tests. The addon works with QUnit DOM and helpers from [@ember/test-helpers](https://github.com/emberjs/ember-test-helpers/). It also removes the `data-test-*` attributes in the production build.
 
 ---
