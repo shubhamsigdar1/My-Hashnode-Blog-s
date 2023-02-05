@@ -61,7 +61,7 @@ Same Way In the terminal, I write "`ember generate route page-not-found`" which 
 
 ## **Working with HTML, CSS and Assets in an Ember App**
 
-`app/templates/page-not-found.hbs`
+`app\templates\page-not-found.hbs`
 
 ```xml
 {{page-title "Page Not Found"}} /* title of the page */
@@ -75,7 +75,9 @@ If you are thinking, "Hey, that looks like HTML!", then you would be right! In t
 
 Of course, unlike HTML, Ember templates can do a lot more than just display static content.
 
-`app/styles/page-not-found.css`
+---
+
+`app\styles\page-not-found.css`
 
 ```css
 * {
@@ -138,7 +140,23 @@ As we learned earlier, the Ember convention is to place your source code in the 
 
 Both Ember CLI and the development server understand these folder conventions and will automatically make these files available to the browser.
 
-`app/route.js`
+---
+
+### I Used Bem Convention In HTML And CSS
+
+The **Block, Element, Modifier** methodology (commonly referred to as [BEM](https://en.bem.info/method)) is a popular *naming convention* for classes in HTML and CSS.  
+  
+*/\* Block component /*
+
+`.page-not-found {}`
+
+*/ Element that depends upon the block \*/*
+
+`.page-not-found__text {}`
+
+---
+
+`app\route.js`
 
 Now I need to show a page not found rather than a blank page when a router doesn’t exist. for ex: [https://realdevsquads.vercel.app/sadjksjkasnna](https://realdevsquads.vercel.app/sadjksjkasnna)  
 In order to do this, we will need to tell Ember about our plan to add a page at that location. Otherwise, Ember will think we have visited an invalid URL!
@@ -158,6 +176,61 @@ Router.map(function () {
 You can confirm this by navigating to [`http://localhost:4200/snshdbs`](http://localhost:4200/ddd)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675516154008/f9c4a73b-ab38-4005-b311-a249fcae3783.gif align="center")
+
+---
+
+#   
+**Automated Testing**
+
+`tests\unit\routes\page-not-found-test.js`
+
+Ember's built-in testing framework to write some automated tests for your app. By the end of this chapter, we will have an automated test suite that we can run to ensure our app is working correctly:  
+
+```javascript
+import { module, test } from 'qunit';
+import { setupTest } from 'website-www/tests/helpers';
+import { visit } from '@ember/test-helpers';
+module('Unit | Route | page-not-found', function (hooks) {
+  setupTest(hooks);
+
+  test('it exists', function (assert) {
+    let route = this.owner.lookup('route:page-not-found');
+    assert.ok(route);
+  });
+
+  test('visiting /*', async function (assert) {
+    await visit('/*');
+
+    assert
+      .dom('[data-test-img]')
+      .hasAttribute('src', '../assets/images/not-found.png')
+      .hasAttribute('alt', 'not-found');
+    assert
+      .dom('[data-test-text]')
+      .hasText("The page you're looking for cannot be found!");
+  });
+});
+```
+
+---
+
+### I use data-test-selectors for picking up the DOM elements
+
+**Reference Link**: [https://guides.emberjs.com/release/testing/testing-tools/#toc\_ember-test-selectors](https://guides.emberjs.com/release/testing/testing-tools/#toc_ember-test-selectors)  
+A best practice for testing is to **separate the concerns between styling and testing**. Class names and DOM structure change over time—for the better—by you, your team, and addon developers. If you rely on CSS classes, your tests will break and need a significant rewrite.
+
+  
+[Ember Test Selectors](https://github.com/simplabs/ember-test-selectors) is an addon that helps you **write tests that are more resilient to DOM changes**. You use `data-test-*` attributes to mark the elements that will be used in your tests. The addon works with QUnit DOM and helpers from [@ember/test-helpers](https://github.com/emberjs/ember-test-helpers/). It also removes the `data-test-*` attributes in the production build.
+
+---
+
+We can put our automated test into motion by running the *test server* using the `ember test --server` command, or `ember t -s` for short. This server behaves much like the development server, but it is explicitly running for our tests. It may automatically open a browser window and take you to the test UI, or you can open [`http://localhost:7357/`](http://localhost:7357/) yourself.
+
+If you watch really carefully, you can see our test robot roaming around our app and clicking links:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675570448988/69ffc7c8-ccbe-42b7-b763-e621440d4bce.png align="center")
+
+---
 
 # **Conclusion**
 
