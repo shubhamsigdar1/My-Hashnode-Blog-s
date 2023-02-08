@@ -1,4 +1,4 @@
-# How I Make 404 Page User Not Found Using  Ember.js Framework
+# How I Make 404 Page Route Using Ember.js
 
 Hi everyone,
 
