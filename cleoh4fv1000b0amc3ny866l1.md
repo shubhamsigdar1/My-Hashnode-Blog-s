@@ -1,4 +1,17 @@
-# Hosting a Discord Bot on Cloudflare Workers
+---
+title: "Hosting a Discord Bot on Cloudflare Workers"
+seoTitle: "Hosting a realdevsquad Discord Bot on Cloudflare Workers"
+seoDescription: "Hi everyone,
+
+Welcome to my blog. This post will show you How to host your Discord Bot on Cloudflare Worker."
+datePublished: Tue Feb 28 2023 16:39:07 GMT+0000 (Coordinated Universal Time)
+cuid: cleoh4fv1000b0amc3ny866l1
+slug: hosting-a-discord-bot-on-cloudflare-workers
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679825190336/fc2083c1-7537-4cb8-946f-190b4f5b5d83.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679826757049/adacb480-b716-444e-ae84-5ed64aa692bb.png
+tags: javascript, web-development, typescript, 100daysofcode, realdevsquad
+
+---
 
 Hi everyone,
 
@@ -81,6 +94,10 @@ The bot is written in **TypeScript** and will be **hosted on Cloudflare workers.
     
 
 ### **Project structure**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679826624493/9295dd23-1783-4fbb-aaef-d5b638ccdb63.jpeg align="center")
+
+###   
 
 **Registering commands**
 
@@ -448,3 +465,9 @@ This is going to bounce requests off of an external endpoint, and forward them t
 Now head back to the Discord Developer Dashboard, and update the `Interactions Endpoint URL` for your app:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677602192109/0116550d-623c-4740-8a5c-a65839048fd0.png align="center")
+
+---
+
+# **Conclusion**
+
+In this tutorial, you have learned how to create discord bot and host on Cloudflare workers.
