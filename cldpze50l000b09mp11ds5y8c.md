@@ -1,13 +1,13 @@
 ---
 title: "How I Make 404 Page Route In Ember.js"
-seoTitle: "How to make a 404 router - Ember.JS"
+seoTitle: "routing in emberjs"
 seoDescription: "I need to show a page not found rather than a blank page when a router doesn’t exist."
 datePublished: Sat Feb 04 2023 13:18:37 GMT+0000 (Coordinated Universal Time)
 cuid: cldpze50l000b09mp11ds5y8c
 slug: how-i-make-404-page-route-in-emberjs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675510437892/de844b5f-33a9-44d7-a9ff-b39d5080bc94.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1675516622125/8aa4e721-efc8-483b-8e5b-193f5a868fb5.png
-tags: emberjs, javascript, web-development, wemakedevs, realdevsquad
+tags: routing, emberjs, javascript, web-development, realdevsquad
 
 ---
 
