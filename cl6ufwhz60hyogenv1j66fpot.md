@@ -1,4 +1,16 @@
-## Get Indian City and State name From Pincode using API
+---
+title: "Get Indian City and State name From Pincode using API"
+seoTitle: "API projects"
+seoDescription: "Hi everyone,
+Welcome to my blog. This post will show you how to code your first API project."
+datePublished: Mon Aug 15 2022 07:33:55 GMT+0000 (Coordinated Universal Time)
+cuid: cl6ufwhz60hyogenv1j66fpot
+slug: get-indian-city-and-state-name-from-pincode-using-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660548794228/eOtIqMFcw.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1660548801562/fmdS-NoHR.jpg
+tags: css, javascript, apis, html5, 100daysofcode
+
+---
 
 Hi everyone,
 
