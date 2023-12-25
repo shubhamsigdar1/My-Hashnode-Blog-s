@@ -1,4 +1,15 @@
-## How I build  DOM manipulation project  using HTML, CSS3, JavaScript
+---
+title: "How I build  DOM manipulation project  using HTML, CSS3, JavaScript"
+seoTitle: "DOM manipulation javascript project"
+seoDescription: "How I build "Class, Weekend, Boring DOM manipulation project " using HTML, CSS3, JavaScript"
+datePublished: Tue Aug 02 2022 04:26:36 GMT+0000 (Coordinated Universal Time)
+cuid: cl6bohjao0h6ez0nvf1gfa9ht
+slug: how-i-build-dom-manipulation-project-using-html-css3-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1659414273181/6aZOW11Mu.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1659414331239/4PlC5KxGG.png
+tags: css, javascript, opensource, html5, 100daysofcode
+
+---
 
 **Hi everyone,**
 
