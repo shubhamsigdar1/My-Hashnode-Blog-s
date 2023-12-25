@@ -1,4 +1,15 @@
-## What is Fintech?
+---
+title: "What is Fintech?"
+seoTitle: "What is Fintech? by shubhamsigdar"
+seoDescription: "What is Fintech? 
+It is a Combination of two-term financial and technology and when these both merge it is called Fintech."
+datePublished: Sun Jun 12 2022 03:10:52 GMT+0000 (Coordinated Universal Time)
+cuid: cl4aqbots06e4r3nvcaixbctc
+slug: what-is-fintech
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/XvS-uKUoUao/upload/v1655000916079/CQsMIyp0H.jpeg
+tags: software-development, technology, fintech, 100devs, intuit
+
+---
 
 **Have you ever transferred money through Paytm, PhonePe, or any payment App? Have you ever checked Bank Statements online?
 **
