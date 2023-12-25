@@ -1,4 +1,15 @@
-## How regular expressions works in JavaScript(regex)
+---
+title: "How regular expressions works in JavaScript(regex)"
+seoTitle: "regex in JavaScript by shubhamsigdar"
+seoDescription: "Regular expressions are patterns used to match character combinations in strings. Syntax of regex in JS
+/pattern/flags"
+datePublished: Wed Jun 01 2022 14:53:37 GMT+0000 (Coordinated Universal Time)
+cuid: cl3vpl2mz00gcq2nverjq7dod
+slug: how-regular-expressions-works-in-javascriptregex
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654709261249/Mn-ieiNMM.JPG
+tags: programming-blogs, javascript, web-development, beginners, regex
+
+---
 
 ### What are Regular Expressions or regex in JavaScript?
 
