@@ -1,4 +1,14 @@
-# How to Accept User Input On Game Board Of Wordle using JavaScript
+---
+title: "How to Accept User Input On Game Board Of Wordle using JavaScript"
+seoTitle: "Wordle game"
+seoDescription: "Welcome to my blog. This post will show you How to Accept User Input in the right place or when the user key is pressed was Enter or Backspace"
+datePublished: Wed Dec 14 2022 11:17:57 GMT+0000 (Coordinated Universal Time)
+cuid: clbt9zee7000108lbdbiqeoxh
+slug: how-to-accept-user-input-on-game-board-of-wordle-using-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671362140290/Myx51aaYz.png
+tags: css, javascript, html5, blogswithcc, wemakedevs
+
+---
 
 Hi everyone,
 
