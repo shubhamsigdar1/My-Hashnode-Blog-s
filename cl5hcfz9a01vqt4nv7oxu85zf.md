@@ -1,4 +1,12 @@
-## Background Picker Using HTML, CSS, JavaScript
+---
+title: "Background Picker Using HTML, CSS, JavaScript"
+datePublished: Mon Jul 11 2022 22:56:23 GMT+0000 (Coordinated Universal Time)
+cuid: cl5hcfz9a01vqt4nv7oxu85zf
+slug: background-picker-using-html-css-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657520902383/vbJrEH_Yn.png
+tags: css, javascript, opensource, html5, 100daysofcode
+
+---
 
 Hi everyone,
 
