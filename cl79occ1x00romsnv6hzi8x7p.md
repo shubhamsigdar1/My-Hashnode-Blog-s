@@ -1,4 +1,15 @@
-## How I Build Book Tracker App using API and Local Storage
+---
+title: "How I Build Book Tracker App using API and Local Storage"
+seoTitle: "HTML, CSS, JAVASCRIPT, API, LOCALSTORAGE"
+seoDescription: "In this project, I want to Build a Book Tracker App in which we are going to use an API that wants our users to enter an ISBN no. of Books"
+datePublished: Thu Aug 25 2022 23:26:44 GMT+0000 (Coordinated Universal Time)
+cuid: cl79occ1x00romsnv6hzi8x7p
+slug: how-i-build-book-tracker-app-using-api-and-local-storage
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661462775262/srKCooOmf.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1661469915053/hB0d7ABNY.jpg
+tags: javascript, localstorage, apis, 100devs, blogswithcc
+
+---
 
 Hi everyone,
 
