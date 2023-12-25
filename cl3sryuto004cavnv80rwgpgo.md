@@ -1,4 +1,15 @@
-## What is SaaS Technology?
+---
+title: "What is SaaS Technology?"
+seoTitle: "#saas #shubhamsigdar"
+seoDescription: "SaaS(Software as a Service)
+SaaS is a method of delivering software and application over the internet via a subscription method."
+datePublished: Mon May 30 2022 13:37:01 GMT+0000 (Coordinated Universal Time)
+cuid: cl3sryuto004cavnv80rwgpgo
+slug: what-is-saas-technology
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653917337702/-xWuo-0Wp.JPG
+tags: cloud, technology, sass
+
+---
 
 1. **SaaS(Software as a Service)**
 2. We use it on daily basis for business and as a consumer.
