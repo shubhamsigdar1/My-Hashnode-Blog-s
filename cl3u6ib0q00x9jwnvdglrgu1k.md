@@ -1,4 +1,14 @@
-## What Are the Most Popular SaaS Apps?
+---
+title: "What Are the Most Popular SaaS Apps?"
+seoTitle: "SaaS Apps by shubhamsigdar"
+seoDescription: "Most Popular SaaS Apps Canva Zoom Razorpay Slack Google Apps"
+datePublished: Tue May 31 2022 13:11:50 GMT+0000 (Coordinated Universal Time)
+cuid: cl3u6ib0q00x9jwnvdglrgu1k
+slug: what-are-the-most-popular-saas-apps
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654709468954/SFfs3zNS8.JPG
+tags: cloud, sass, google-cloud
+
+---
 
 There are many SaaS applications, so we have compiled some of the most popular. Take a look below to get an idea of what SaaS business applications are, and why they are used.
 
