@@ -1,4 +1,15 @@
-## How I Build Daily Music Generator Using HTML, CSS, JavaScript
+---
+title: "How I Build Daily Music Generator Using HTML, CSS, JavaScript"
+seoTitle: "How I Build Daily Music Generator Using HTML, CSS, JavaScript"
+seoDescription: "Hi everyone,
+Welcome to my blog. In this project, We want music can be generated according to that day after we manipulate the DOM"
+datePublished: Fri Jun 24 2022 06:22:49 GMT+0000 (Coordinated Universal Time)
+cuid: cl4s2gri705ro9vnvh6b3e9zt
+slug: how-i-build-daily-music-generator-using-html-css-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1656044278433/6DXfaAS7W.png
+tags: css, javascript, documentation, html5, 100devs
+
+---
 
 **Hi everyone,**
 
