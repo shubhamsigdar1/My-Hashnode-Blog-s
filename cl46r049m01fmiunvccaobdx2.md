@@ -1,4 +1,14 @@
-## Role of Scrum Master
+---
+title: "Role of Scrum Master"
+seoTitle: "Role of Scrum Master by shubhamsigdar"
+seoDescription: "Scrum Master to help the team to learn agile development and follow a Scrum process to develop a product."
+datePublished: Thu Jun 09 2022 08:18:47 GMT+0000 (Coordinated Universal Time)
+cuid: cl46r049m01fmiunvccaobdx2
+slug: role-of-scrum-master
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654757457317/rs9Y-5LzC.JPG
+tags: software-development, technology, agile, scrum, 100devs
+
+---
 
 **The CEO of the company hired a Scrum Master to help the team to learn agile development and follow a Scrum process to develop a product.
 **
