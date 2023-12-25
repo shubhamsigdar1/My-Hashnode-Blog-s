@@ -1,4 +1,15 @@
-## Software Development Life Cycle(SDLC)
+---
+title: "Software Development Life Cycle(SDLC)"
+seoTitle: "Software Development Life Cycle(SDLC) by shubhamsigdar"
+seoDescription: "What is SDLC?
+A process by which software is conceptualized developed and maintained, This process is known as the software development life cycle."
+datePublished: Tue Jun 07 2022 13:33:13 GMT+0000 (Coordinated Universal Time)
+cuid: cl447cs0m01f78unvehywbrdw
+slug: software-development-life-cyclesdlc
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654709088582/M4kZGtlmL.JPG
+tags: software-development, technology, web-development, 100devs, software-development-life-cyclesdlc
+
+---
 
 ### What is SDLC?
 A process by which software is conceptualized developed and maintained, This process is known as the software development life cycle.
