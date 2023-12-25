@@ -1,4 +1,17 @@
-## How I Build NASA's Picture Of The Day using HTML, CSS, JavaScript, and NASA's API
+---
+title: "How I Build NASA's Picture Of The Day using HTML, CSS, JavaScript, and NASA's API"
+seoTitle: "API poject, javascript project"
+seoDescription: "Hi everyone,
+
+Welcome to my blog. This post will show you how to code your first API project."
+datePublished: Wed Aug 17 2022 20:50:10 GMT+0000 (Coordinated Universal Time)
+cuid: cl6y386el08b3vknvdt935x7l
+slug: how-i-build-nasas-picture-of-the-day-using-html-css-javascript-and-nasas-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660769174371/C50WbCrFS.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1660769345944/LrQletNd6.jpg
+tags: css, javascript, opensource, apis, html5
+
+---
 
 Hi everyone,
 
