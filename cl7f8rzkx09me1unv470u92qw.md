@@ -1,4 +1,15 @@
-## How I made a Tic-tac-toe Game using JavaScript
+---
+title: "How I made a Tic-tac-toe Game using JavaScript"
+seoTitle: "How I made a Tic-tac-toe Game using Javascript by shubhamsigdar"
+seoDescription: "In this project, We are going to make Tic-tac-toe Game using HTML, CSS, and JavaScript."
+datePublished: Mon Aug 29 2022 20:57:37 GMT+0000 (Coordinated Universal Time)
+cuid: cl7f8rzkx09me1unv470u92qw
+slug: how-i-made-a-tic-tac-toe-game-using-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661571701134/6YwLjoeG5.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1661806607605/nm4E7GRIL.jpg
+tags: javascript, opensource, 100devs, tic-tac-toe, blogswithcc
+
+---
 
 Hi everyone,
 
