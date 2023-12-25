@@ -1,4 +1,15 @@
-# Lets Install And Get Started With Node.JS
+---
+title: "Lets Install And Get Started With Node.JS"
+seoTitle: "How to install node.js"
+seoDescription: "Lets Install And Get Started With Node.JS"
+datePublished: Thu Dec 22 2022 18:14:18 GMT+0000 (Coordinated Universal Time)
+cuid: clbzekxci000908kz3u5b0rc7
+slug: lets-install-and-get-started-with-nodejs
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671732851117/bce22050-3f32-418d-9ba1-e1bd64e9e7bd.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1671732783169/818aedb2-8c0c-4c9b-9047-fb5771bd7534.png
+tags: javascript, web-development, nodejs, beginners, wemakedevs
+
+---
 
 ## Installation Process
 
