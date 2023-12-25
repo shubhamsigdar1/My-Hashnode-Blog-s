@@ -1,4 +1,15 @@
-# How I Build Lift Simulation Using HTML, CSS, and JavaScript
+---
+title: "How I Build Lift Simulation Using HTML, CSS, and JavaScript"
+seoTitle: "How I Build Lift Simulation Using HTML, CSS, and JavaScript."
+seoDescription: "This is a task given by @realdevsquad and I am also suggesting you all do this task. GitHub Link of this task)"
+datePublished: Mon Jan 02 2023 09:43:29 GMT+0000 (Coordinated Universal Time)
+cuid: clcem6dfa000508kz5smd1s2h
+slug: how-i-build-lift-simulation-using-html-css-and-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672650720118/bb606a42-4be4-402a-8e91-552957f49fbe.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1672652533414/96fad207-d491-44af-b6e8-68cec8861d5c.png
+tags: css, javascript, html5, 100devs, wemakedevs
+
+---
 
 **Hi everyone,**
 
