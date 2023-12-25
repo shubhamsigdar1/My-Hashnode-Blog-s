@@ -1,4 +1,17 @@
-## How I Build Dog Generator using HTML, CSS, JavaScript, and  Dog CEO API.
+---
+title: "How I Build Dog Generator using HTML, CSS, JavaScript, and  Dog CEO API."
+seoTitle: "How I Build Dog Generator using HTML, CSS, JavaScript, and  DogCEO API"
+seoDescription: "Hi everyone,
+
+Welcome to my blog. In this post, I will show you how to code your first API project."
+datePublished: Fri Aug 12 2022 02:11:04 GMT+0000 (Coordinated Universal Time)
+cuid: cl6pu1qru02ozgenv2ramalb1
+slug: how-i-build-dog-generator-using-html-css-javascript-and-dog-ceo-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660270098857/EZhlmp_8r.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1660270181193/Wn9Kal56L.jpg
+tags: css, javascript, apis, html5, 100daysofcode
+
+---
 
 Hi everyone,
 
