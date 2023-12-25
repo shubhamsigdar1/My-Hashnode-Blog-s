@@ -1,4 +1,14 @@
-## Agile Model in Software Development Life Cycle.
+---
+title: "Agile Model in Software Development Life Cycle."
+seoTitle: "Agile Model in Software Development. by shubhamsigdar"
+seoDescription: "What is the Agile Model or Agile methodology or Agile process in SDLC?It is an iterative or incremental approach, where the requirement keeps on changing"
+datePublished: Wed Jun 08 2022 05:42:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl455z4eg002bwrnv6xe8edr9
+slug: agile-model-in-software-development-life-cycle
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/cBUTPbTeDB0/upload/v1654708796181/WP0oAg7sM.jpeg
+tags: technology, freelancing, agile, scrum, 100devs
+
+---
 
 ### Why does the Agile method come into existence?
 ****
