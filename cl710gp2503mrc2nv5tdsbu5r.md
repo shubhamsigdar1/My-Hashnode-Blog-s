@@ -1,4 +1,15 @@
-## How I Build Card Game using API and Local Storage
+---
+title: "How I Build Card Game using API and Local Storage"
+seoTitle: "JavaScript project using API, local storage"
+seoDescription: "Welcome to my blog. This post will show you how to code your first API Javascript project using Local Storage."
+datePublished: Fri Aug 19 2022 21:56:07 GMT+0000 (Coordinated Universal Time)
+cuid: cl710gp2503mrc2nv5tdsbu5r
+slug: how-i-build-card-game-using-api-and-local-storage
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660939193956/reNs1JL3S.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1660946043151/dbIaa2PD_.jpg
+tags: javascript, opensource, localstorage, apis, 100daysofcode
+
+---
 
 Hi everyone,
 
