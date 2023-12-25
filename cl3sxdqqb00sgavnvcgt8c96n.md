@@ -1,4 +1,14 @@
-## Indian SaaS Market
+---
+title: "Indian SaaS Market"
+seoTitle: "Indian SaaS Market by shubhamsigdar"
+seoDescription: "India is among the fastest-growing Software as a Service (SaaS) markets in the world with an impressive growth rate of 55%."
+datePublished: Mon May 30 2022 16:08:34 GMT+0000 (Coordinated Universal Time)
+cuid: cl3sxdqqb00sgavnvcgt8c96n
+slug: indian-saas-market
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/w7ZyuGYNpRQ/upload/v1654708727378/zdv7f-Br0f.jpeg
+tags: cloud, startups, saas, business, product
+
+---
 
 1. India is among the fastest-growing Software as a Service (SaaS) markets in the world with an impressive growth rate of  55%. After every single year by 2022, it is expected that this market will 
 be worth $6.5 billion in the coming year alone.
